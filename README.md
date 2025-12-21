@@ -11,7 +11,8 @@ This bootcamp is designed to take you through a comprehensive journey in data an
 - [Week 1](./week%201/) - Introduction to Databases and ERD
 - [Week 2](./Week%202/) - Joining Data in SQL
 - [Week 3](./Week%203/) - SQL Window Functions
-- [Week 4](./Week%204/) - Data Analysis with Real-World Datasets
+- [Week 4](./Week%204/) - Real World Data Analysis
+- [Week 5](./Week%205/) - Database Design and Installation
 
 ## How to Use This Repository
 
@@ -85,7 +86,9 @@ data-analytics-bootcamp/
 │   └── Window_Functions_Easy_Guide (1).pdf
 ├── Week 4/
 │   └── pp-2022.csv
-└── [future weeks will be added here]
+└── Week 5/
+    ├── How_to_Draw_an_ERD_for_Employee_Database.pdf
+    └── MySQL_Employee_Database_Installation_Guide_for_Beginners.pdf
 ```
 
 ## Resources

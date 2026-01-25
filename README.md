@@ -13,6 +13,15 @@ This bootcamp is designed to take you through a comprehensive journey in data an
 - [Week 3](./Week%203/) - SQL Window Functions
 - [Week 4](./Week%204/) - Real World Data Analysis
 - [Week 5](./Week%205/) - Database Design and Installation
+- [Week 6](./Week%206/) - Data Visualization
+- [Week 7](./Week%207/) - Getting Started with Python and Anaconda
+- [Week 8](./Week%208/) - Python Data Structures
+- [Week 9](./Week%209/) - Python Comparison Operators and Assessment
+- [Capstone Project](./Capstone%20Project/) - Final Capstone Projects
+
+## Capstone Project
+
+We now have a dedicated Capstone Project section! This is where you will apply everything you've learned throughout the bootcamp. The capstone projects are designed to test your skills in a real-world scenario, combining SQL, data visualization, and analytical thinking.
 
 ## How to Use This Repository
 
@@ -86,9 +95,23 @@ data-analytics-bootcamp/
 │   └── Window_Functions_Easy_Guide (1).pdf
 ├── Week 4/
 │   └── pp-2022.csv
-└── Week 5/
-    ├── How_to_Draw_an_ERD_for_Employee_Database.pdf
-    └── MySQL_Employee_Database_Installation_Guide_for_Beginners.pdf
+├── Week 5/
+│   ├── How_to_Draw_an_ERD_for_Employee_Database.pdf
+│   └── MySQL_Employee_Database_Installation_Guide_for_Beginners.pdf
+├── Week 6/
+│   └── PHOTO-2026-01-10-23-47-51.jpg
+├── Week 7/
+│   └── Getting Started with Python and Anaconda - Beginner's Guide.pdf
+├── Week 8/
+│   ├── 01-Numbers.ipynb
+│   └── ... (Python Notebooks)
+├── Week 9/
+│   ├── 01-Comparison Operators.ipynb
+│   └── ... (Python Notebooks)
+└── Capstone Project/
+    ├── Capstone_Project_Overview.pdf
+    ├── Fuzzy_Factory_Capstone_Project.pdf
+    └── Marketing_Campaign_Capstone_Project.pdf
 ```
 
 ## Resources
